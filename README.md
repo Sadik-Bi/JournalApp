@@ -10,7 +10,7 @@ The following components are needed to run the project:
     Clone the Repository from Github
     Import the project  using Android Studio IDE
 # Built With
-    Firebase Used for Authentication.
+    https://firebase.google.com/ Used for Authentication.
     Room used to store Journal Data.
 # Authors
     Sadik
