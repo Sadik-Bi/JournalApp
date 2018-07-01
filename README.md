@@ -1,9 +1,9 @@
 # JournalApp
 This app is part of the google scholarship program in the android development program.
-The app uses the Android Architecture Components.
+The app uses the [Android Architecture Components](https://developer.android.com/topic/libraries/architecture/).
 # Prerequisites
 The following components are needed to run the project:
-    -Android Studio(Latest Version)
+ * [Android Studio](https://developer.android.com/studio/)
     
 # Setting Up
 
